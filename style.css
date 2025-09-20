@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+#login-btn{
+    font-size: 2rem;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(226, 100%, 94%);
+    cursor: pointer;
+}
+#login-btn:hover {
+    background-color: hsl(0, 0%, 20%);
+}
+#login-btn:active {
+    background-color: hsl(0, 0%, 40%);
+}
 #login-body {
  margin: 0;
  display: flex;
