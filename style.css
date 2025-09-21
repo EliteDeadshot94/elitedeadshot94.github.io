@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+#about-pageP{
+    width: 100%;
+    font-size: 2rem;
+    text-align: center;
+}
+#about-pageH1{
+    width: 100%;
+    font-size: 3rem;
+    text-align: center;
+}
 #login-btn{
     font-size: 2rem;
     border-radius: 10px;
