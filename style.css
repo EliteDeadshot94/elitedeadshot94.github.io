@@ -19,6 +19,7 @@
     background-color: hsl(0, 0%, 0%);
     color: hsl(226, 100%, 94%);
     cursor: pointer;
+    padding: 0;
 }
 
 #login-btn:hover {
